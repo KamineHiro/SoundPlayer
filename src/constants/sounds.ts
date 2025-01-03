@@ -1,4 +1,9 @@
-export const SOUNDS = [
+type Sound = {
+  label: string;
+  url: string;
+};
+
+export const SOUNDS: Sound[] = [
   {
     label: '初めまして',
     url: 'https://soundeffect-lab.info/sound/voice/mp3/line-girl1/line-girl1-hazimemashite1.mp3'

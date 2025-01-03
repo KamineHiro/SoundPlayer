@@ -1,4 +1,3 @@
-import React from 'react';
 import type { AudioButtonProps } from '../types/audio';
 
 export function AudioButton({ label, onPlay, onStop, isPlaying }: AudioButtonProps) {

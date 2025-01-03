@@ -1,4 +1,3 @@
-import React from 'react';
 import { AudioButton } from './AudioButton';
 import { useAudio } from '../hooks/useAudio';
 import type { Sound } from '../types/audio';

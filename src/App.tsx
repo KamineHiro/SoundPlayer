@@ -1,6 +1,11 @@
-import React from 'react';
 import { SoundBoard } from './components/SoundBoard';
 import { SOUNDS } from './constants/sounds';
+
+type Sound = {
+  label: string;
+  url: string;
+};
+
 
 function App() {
   return (
