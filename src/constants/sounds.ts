@@ -13,7 +13,7 @@ export const SOUNDS: Sound[] = [
     url: 'https://soundeffect-lab.info/sound/voice/mp3/line-girl1/line-girl1-akemashiteomedetougozaimasu1.mp3'
   },
   {
-    label: 'バイバーイ',
+    label: 'b',
     url: 'https://soundeffect-lab.info/sound/voice/mp3/line-girl1/line-girl1-byebye1.mp3'
   }
 ];
