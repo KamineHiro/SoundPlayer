@@ -5,11 +5,11 @@ type Sound = {
 
 export const SOUNDS: Sound[] = [
   {
-    label: '初めまして',
+    label: 'y',
     url: 'https://soundeffect-lab.info/sound/voice/mp3/line-girl1/line-girl1-hazimemashite1.mp3'
   },
   {
-    label: '明けましておめでとうございます',
+    label: 'a',
     url: 'https://soundeffect-lab.info/sound/voice/mp3/line-girl1/line-girl1-akemashiteomedetougozaimasu1.mp3'
   },
   {
