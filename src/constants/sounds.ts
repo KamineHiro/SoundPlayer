@@ -5,7 +5,7 @@ type Sound = {
 
 export const SOUNDS: Sound[] = [
   {
-    label: 'y',
+    label: 'h',
     url: 'https://soundeffect-lab.info/sound/voice/mp3/line-girl1/line-girl1-hazimemashite1.mp3'
   },
   {
