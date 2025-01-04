@@ -9,7 +9,7 @@ interface SoundBoardProps {
 
 export function SoundBoard({ sounds }: SoundBoardProps) {
   return (
-    <div className="p-6 bg-gradient-to-r from-blue-500 via-purple-600 to-pink-500 rounded-lg shadow-lg">
+    <div className="p-6 bg-gradient-to-r from-blue-500 via-purple-600 to-pink-500 rounded-lg shadow-lg mt-8 mb-8">
       <h2 className="text-2xl font-bold text-white text-center mb-6">
         🎵 Sound Board 🎵
       </h2>
